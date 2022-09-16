@@ -83,6 +83,7 @@ section ul {
     gap: 16px;
     margin-top: 24px;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 section ul li {
@@ -97,6 +98,7 @@ section ul li:hover {
     width: 90px;
     border-radius: 8px;
     border: 1px solid #443E54;
+  
 
 }
 
